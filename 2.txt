@@ -2,3 +2,7 @@ seq1
 ben 
 ben
 ben day 2 trying to create conflict
+
+
+hi there heres a new code
+please commit
